@@ -12,4 +12,10 @@ php7.4-json \
 php7.4-intl \
 php7.4-gd \
 php7.4-bcmath \
-php7.4-curl
+php7.4-curl \
+php7.4-xdebug \
+php7.4-soap \
+php7.4-mongodb \
+php7.4-yaml
+
+sudo apt-get install -y composer
